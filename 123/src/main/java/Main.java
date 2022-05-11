@@ -4,5 +4,7 @@ public class Main {
         System.out.println("wtf");
         System.out.println("wtf");
         System.out.println("wtf");
+        System.out.println("wtf");
+        System.out.println("wtf");
     }
 }
